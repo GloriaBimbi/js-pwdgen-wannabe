@@ -6,7 +6,8 @@
 Chiedi all'utente il suo nome,
 poi chiedi il suo cognome,
 poi chiedi il suo colore preferito
-Infine scrivi sulla pagina nomecognomecolorepreferito23
+Infine scrivi sulla pagina
+nomecognomecolorepreferito23
 ```
 
 ## PROCEDIMENTO
@@ -15,4 +16,4 @@ Infine scrivi sulla pagina nomecognomecolorepreferito23
 - STEP 2: Chiedo all'utente: "Qual è il tuo cognome?";
 - STEP 3: Chiedo all'utente: "Qual è il tuo colore preferito?";
 - STEP 4: Creo una concatenazione tra i dati ricavati dalle risposte dell'utente;
-- STEP 5: Cambio il valore di una variabile in html con la password ottenuta dalla concatenzaione e ottengo la sua stampa sulla pagina.
+- STEP 5: La password così ottenuta viene stampata sulla pagina.
