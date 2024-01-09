@@ -11,7 +11,7 @@ const color = prompt("Qual è il tuo colore preferito?");
 console.log(color);
 
 //STEP 4: Creo una concatenazione tra i dati ricavati dalle risposte dell'utente
-password = name + surname + color + 23;
+password = name + surname + color + '23';
 console.log(password);
 
 //STEP 5: La password così ottenuta viene stampata sulla pagina
